@@ -1,6 +1,6 @@
 <script lang="ts">
   import { FormGroup, Label, Input, Icon, Button } from "sveltestrap";
-  let text: string = "test";
+  let text: string = "t";
 </script>
 
 <main>
